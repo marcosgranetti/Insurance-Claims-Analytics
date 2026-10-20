@@ -1,0 +1,301 @@
+id_sinistro,data_ocorrencia,tipo_sinistro,regiao,status,valor_reclamado,valor_pago
+SIN-0001,2025-11-04,Colisão,Sudeste,Pago,13930.01,12353.76
+SIN-0002,2025-09-03,Roubo/Furto,Sudeste,Pago,18171.76,15640.55
+SIN-0003,2025-09-07,Danos a terceiros,Nordeste,Pago,7384.75,5519.12
+SIN-0004,2025-01-25,Vidros,Nordeste,Pago,1119.76,1102.99
+SIN-0005,2025-06-04,Colisão,Sudeste,Em análise,11955.42,0
+SIN-0006,2025-01-24,Roubo/Furto,Sudeste,Em análise,11709.61,0
+SIN-0007,2025-05-27,Danos a terceiros,Centro-Oeste,Pago,4462.28,3009.11
+SIN-0008,2025-11-08,Danos a terceiros,Norte,Em análise,12131.25,0
+SIN-0009,2025-07-09,Roubo/Furto,Centro-Oeste,Pago,23321.37,20629.18
+SIN-0010,2025-12-22,Danos a terceiros,Sul,Pago,10568.82,7474.17
+SIN-0011,2025-07-09,Alagamento,Sul,Pago,21673.05,20480.99
+SIN-0012,2025-01-08,Vidros,Nordeste,Pago,838.49,813.0
+SIN-0013,2025-10-23,Colisão,Nordeste,Pago,16578.9,13438.83
+SIN-0014,2025-05-05,Colisão,Sul,Pago,11670.72,11253.35
+SIN-0015,2025-07-12,Colisão,Norte,Pago,4327.28,2884.09
+SIN-0016,2025-02-05,Danos a terceiros,Nordeste,Pago,2997.63,2348.84
+SIN-0017,2025-08-17,Colisão,Sul,Negado,13094.22,0
+SIN-0018,2025-02-22,Vidros,Nordeste,Em análise,1701.55,0
+SIN-0019,2025-05-14,Colisão,Sudeste,Em análise,13680.25,0
+SIN-0020,2025-09-25,Colisão,Centro-Oeste,Em análise,7414.37,0
+SIN-0021,2025-11-17,Danos a terceiros,Sudeste,Em análise,8410.44,0
+SIN-0022,2025-09-01,Roubo/Furto,Sul,Pago,23645.19,23523.71
+SIN-0023,2025-05-08,Colisão,Centro-Oeste,Negado,4249.1,0
+SIN-0024,2025-08-27,Colisão,Nordeste,Em análise,4884.82,0
+SIN-0025,2025-08-18,Colisão,Sul,Pago,17319.9,16888.98
+SIN-0026,2025-12-23,Colisão,Sudeste,Negado,12641.94,0
+SIN-0027,2025-08-17,Roubo/Furto,Sudeste,Pago,9283.44,7834.04
+SIN-0028,2025-10-08,Colisão,Nordeste,Pago,3977.58,2629.16
+SIN-0029,2025-06-03,Roubo/Furto,Sudeste,Pago,31047.83,28041.57
+SIN-0030,2025-10-19,Roubo/Furto,Nordeste,Em análise,16397.22,0
+SIN-0031,2025-02-22,Roubo/Furto,Sudeste,Pago,39021.19,34560.19
+SIN-0032,2025-11-04,Colisão,Nordeste,Em análise,4600.38,0
+SIN-0033,2025-04-07,Roubo/Furto,Sudeste,Pago,27830.38,26607.79
+SIN-0034,2025-02-15,Vidros,Centro-Oeste,Pago,2684.26,2252.65
+SIN-0035,2025-01-03,Vidros,Centro-Oeste,Pago,2159.77,1565.43
+SIN-0036,2025-07-02,Colisão,Sudeste,Pago,16756.96,15496.76
+SIN-0037,2025-05-14,Danos a terceiros,Nordeste,Em análise,9803.79,0
+SIN-0038,2025-08-05,Colisão,Sudeste,Pago,13919.09,9344.37
+SIN-0039,2025-06-02,Colisão,Sul,Em análise,10875.5,0
+SIN-0040,2025-01-17,Colisão,Sudeste,Pago,13018.79,9533.94
+SIN-0041,2025-02-19,Colisão,Sul,Pago,9210.97,7868.8
+SIN-0042,2025-09-11,Alagamento,Sudeste,Em análise,10747.81,0
+SIN-0043,2025-07-05,Danos a terceiros,Sudeste,Pago,10827.46,7312.76
+SIN-0044,2025-08-20,Alagamento,Norte,Pago,10122.28,7519.03
+SIN-0045,2025-06-03,Vidros,Sudeste,Pago,3256.3,2918.42
+SIN-0046,2025-10-26,Danos a terceiros,Sudeste,Em análise,5680.43,0
+SIN-0047,2025-11-04,Alagamento,Sudeste,Pago,7522.38,6346.09
+SIN-0048,2025-05-10,Danos a terceiros,Nordeste,Pago,9489.46,7044.92
+SIN-0049,2025-08-09,Vidros,Centro-Oeste,Pago,1964.26,1466.98
+SIN-0050,2025-01-11,Danos a terceiros,Sul,Pago,10706.5,9026.52
+SIN-0051,2025-07-18,Colisão,Sudeste,Em análise,16420.94,0
+SIN-0052,2025-09-02,Vidros,Sul,Pago,1031.45,781.73
+SIN-0053,2025-01-12,Colisão,Sudeste,Pago,14579.23,13988.0
+SIN-0054,2025-07-20,Danos a terceiros,Centro-Oeste,Pago,4123.46,3834.65
+SIN-0055,2025-03-14,Colisão,Nordeste,Pago,16820.89,15656.59
+SIN-0056,2025-12-26,Colisão,Sudeste,Em análise,8665.31,0
+SIN-0057,2025-01-28,Roubo/Furto,Sudeste,Em análise,23085.65,0
+SIN-0058,2025-04-08,Colisão,Sudeste,Pago,15832.25,15648.77
+SIN-0059,2025-05-12,Danos a terceiros,Sudeste,Negado,8374.45,0
+SIN-0060,2025-01-04,Vidros,Sudeste,Pago,3728.18,2473.24
+SIN-0061,2025-10-14,Colisão,Nordeste,Pago,17615.51,12163.09
+SIN-0062,2025-10-07,Colisão,Nordeste,Pago,16742.93,14038.25
+SIN-0063,2025-12-24,Danos a terceiros,Sudeste,Pago,13068.45,12706.06
+SIN-0064,2025-10-11,Danos a terceiros,Sudeste,Em análise,8043.52,0
+SIN-0065,2025-11-14,Colisão,Nordeste,Pago,5828.62,5145.07
+SIN-0066,2025-07-22,Danos a terceiros,Sudeste,Pago,6894.11,6492.9
+SIN-0067,2025-05-10,Colisão,Nordeste,Pago,7768.46,6250.7
+SIN-0068,2025-11-07,Roubo/Furto,Nordeste,Negado,39310.38,0
+SIN-0069,2025-11-03,Colisão,Nordeste,Pago,4364.13,4290.81
+SIN-0070,2025-04-22,Colisão,Nordeste,Pago,3662.43,3641.84
+SIN-0071,2025-10-28,Danos a terceiros,Sul,Em análise,8823.26,0
+SIN-0072,2025-12-23,Colisão,Sudeste,Pago,13203.38,12707.34
+SIN-0073,2025-02-25,Roubo/Furto,Sudeste,Negado,30154.23,0
+SIN-0074,2025-01-18,Colisão,Centro-Oeste,Pago,14896.07,13162.95
+SIN-0075,2025-09-20,Colisão,Nordeste,Pago,15098.22,14527.61
+SIN-0076,2025-07-27,Vidros,Sudeste,Pago,3343.71,2700.13
+SIN-0077,2025-04-27,Danos a terceiros,Nordeste,Pago,9404.26,7016.6
+SIN-0078,2025-02-23,Colisão,Sudeste,Pago,11009.76,7689.56
+SIN-0079,2025-04-13,Danos a terceiros,Nordeste,Pago,6911.44,5805.01
+SIN-0080,2025-07-02,Colisão,Sudeste,Em análise,11663.18,0
+SIN-0081,2025-12-01,Vidros,Nordeste,Pago,648.57,501.42
+SIN-0082,2025-07-28,Vidros,Centro-Oeste,Pago,2944.1,2737.88
+SIN-0083,2025-04-16,Colisão,Sudeste,Pago,7974.93,7079.34
+SIN-0084,2025-07-24,Colisão,Sul,Pago,12231.07,8065.64
+SIN-0085,2025-07-19,Roubo/Furto,Sudeste,Pago,14099.38,11442.98
+SIN-0086,2025-01-09,Colisão,Sudeste,Pago,14298.29,11191.19
+SIN-0087,2025-07-09,Vidros,Sul,Em análise,794.07,0
+SIN-0088,2025-06-08,Danos a terceiros,Nordeste,Pago,10854.4,10662.97
+SIN-0089,2025-04-27,Colisão,Sudeste,Pago,12933.2,10959.46
+SIN-0090,2025-04-15,Danos a terceiros,Nordeste,Pago,9182.44,8372.31
+SIN-0091,2025-02-25,Vidros,Norte,Pago,710.89,539.7
+SIN-0092,2025-11-13,Colisão,Nordeste,Pago,13247.89,11519.5
+SIN-0093,2025-02-23,Danos a terceiros,Centro-Oeste,Pago,3652.0,3631.35
+SIN-0094,2025-01-12,Roubo/Furto,Nordeste,Pago,35596.82,23295.56
+SIN-0095,2025-07-27,Roubo/Furto,Sudeste,Pago,45846.15,37177.05
+SIN-0096,2025-03-14,Colisão,Sul,Pago,12136.7,11795.25
+SIN-0097,2025-08-15,Roubo/Furto,Nordeste,Pago,44171.95,41555.02
+SIN-0098,2025-02-09,Vidros,Sudeste,Pago,2552.54,1997.74
+SIN-0099,2025-01-16,Vidros,Sudeste,Pago,3143.17,2417.47
+SIN-0100,2025-10-23,Vidros,Sul,Pago,1231.83,904.75
+SIN-0101,2025-07-16,Roubo/Furto,Sudeste,Pago,38297.38,30900.67
+SIN-0102,2025-01-03,Colisão,Sudeste,Pago,12851.41,10013.27
+SIN-0103,2025-09-17,Colisão,Norte,Pago,8208.18,6638.86
+SIN-0104,2025-05-09,Colisão,Nordeste,Pago,14025.36,13784.22
+SIN-0105,2025-12-06,Colisão,Nordeste,Pago,11745.11,10759.38
+SIN-0106,2025-10-10,Alagamento,Centro-Oeste,Pago,13741.59,10385.81
+SIN-0107,2025-12-18,Colisão,Sudeste,Pago,7320.53,7177.28
+SIN-0108,2025-11-28,Danos a terceiros,Sudeste,Pago,5509.36,4504.18
+SIN-0109,2025-06-06,Alagamento,Sudeste,Em análise,7695.13,0
+SIN-0110,2025-02-13,Roubo/Furto,Sul,Pago,14772.53,13796.06
+SIN-0111,2025-05-03,Alagamento,Sudeste,Em análise,19754.78,0
+SIN-0112,2025-10-08,Danos a terceiros,Sudeste,Em análise,5657.39,0
+SIN-0113,2025-10-14,Colisão,Sul,Pago,13983.83,13727.32
+SIN-0114,2025-04-21,Colisão,Nordeste,Pago,5560.48,3760.4
+SIN-0115,2025-01-14,Roubo/Furto,Sul,Pago,18122.0,16263.31
+SIN-0116,2025-12-28,Roubo/Furto,Nordeste,Em análise,41488.78,0
+SIN-0117,2025-11-19,Danos a terceiros,Norte,Pago,8469.4,7424.89
+SIN-0118,2025-05-27,Colisão,Sudeste,Em análise,11826.28,0
+SIN-0119,2025-10-10,Roubo/Furto,Sul,Pago,25305.36,18859.73
+SIN-0120,2025-09-16,Roubo/Furto,Sul,Em análise,39250.42,0
+SIN-0121,2025-10-09,Colisão,Sudeste,Pago,15775.19,13495.57
+SIN-0122,2025-01-25,Danos a terceiros,Sudeste,Pago,10877.56,8861.68
+SIN-0123,2025-11-15,Vidros,Sudeste,Pago,2629.57,2161.78
+SIN-0124,2025-02-16,Colisão,Sudeste,Pago,15733.78,12043.13
+SIN-0125,2025-12-16,Colisão,Norte,Em análise,11157.69,0
+SIN-0126,2025-08-03,Colisão,Sudeste,Negado,8987.1,0
+SIN-0127,2025-09-27,Alagamento,Nordeste,Pago,15024.57,10752.39
+SIN-0128,2025-06-20,Danos a terceiros,Sul,Em análise,4590.47,0
+SIN-0129,2025-09-05,Vidros,Sudeste,Pago,1012.49,1002.97
+SIN-0130,2025-10-26,Colisão,Sudeste,Pago,11189.74,7638.38
+SIN-0131,2025-02-15,Alagamento,Sul,Pago,27750.0,20872.21
+SIN-0132,2025-12-09,Colisão,Sul,Pago,9769.7,6844.89
+SIN-0133,2025-04-20,Roubo/Furto,Centro-Oeste,Em análise,20002.39,0
+SIN-0134,2025-07-11,Alagamento,Sul,Em análise,11829.56,0
+SIN-0135,2025-05-27,Roubo/Furto,Norte,Pago,14641.01,12276.53
+SIN-0136,2025-06-11,Roubo/Furto,Sul,Pago,21914.65,15691.51
+SIN-0137,2025-12-08,Roubo/Furto,Sudeste,Em análise,10233.19,0
+SIN-0138,2025-12-16,Danos a terceiros,Nordeste,Pago,9824.46,9208.09
+SIN-0139,2025-03-16,Alagamento,Sudeste,Negado,13033.87,0
+SIN-0140,2025-02-28,Vidros,Sudeste,Em análise,678.34,0
+SIN-0141,2025-03-14,Vidros,Norte,Pago,3091.8,2296.46
+SIN-0142,2025-10-23,Colisão,Sudeste,Pago,13006.07,10883.06
+SIN-0143,2025-06-21,Danos a terceiros,Nordeste,Em análise,2683.35,0
+SIN-0144,2025-02-08,Danos a terceiros,Centro-Oeste,Negado,10769.47,0
+SIN-0145,2025-07-04,Danos a terceiros,Nordeste,Pago,4167.4,3145.61
+SIN-0146,2025-01-02,Colisão,Sudeste,Pago,9381.47,6899.78
+SIN-0147,2025-07-19,Danos a terceiros,Sudeste,Pago,9207.97,7218.04
+SIN-0148,2025-11-08,Roubo/Furto,Sul,Pago,35191.99,28535.41
+SIN-0149,2025-11-01,Vidros,Sul,Pago,2351.78,1589.45
+SIN-0150,2025-06-19,Colisão,Norte,Pago,9770.43,7383.93
+SIN-0151,2025-07-28,Roubo/Furto,Sudeste,Pago,32542.1,32458.86
+SIN-0152,2025-05-01,Alagamento,Nordeste,Pago,18765.26,16701.64
+SIN-0153,2025-12-02,Vidros,Nordeste,Em análise,3474.24,0
+SIN-0154,2025-04-20,Vidros,Sudeste,Pago,1419.47,1298.04
+SIN-0155,2025-11-22,Vidros,Sul,Em análise,2665.97,0
+SIN-0156,2025-05-26,Roubo/Furto,Sul,Em análise,12185.6,0
+SIN-0157,2025-05-11,Danos a terceiros,Sudeste,Pago,8410.76,8326.83
+SIN-0158,2025-09-17,Vidros,Centro-Oeste,Pago,3227.77,2642.4
+SIN-0159,2025-05-24,Vidros,Nordeste,Pago,867.19,792.57
+SIN-0160,2025-04-28,Danos a terceiros,Nordeste,Pago,11895.34,10052.27
+SIN-0161,2025-02-26,Colisão,Sudeste,Pago,8457.71,7714.73
+SIN-0162,2025-05-19,Colisão,Sul,Pago,13013.19,10605.97
+SIN-0163,2025-10-18,Colisão,Sul,Pago,12426.63,10096.56
+SIN-0164,2025-12-10,Danos a terceiros,Sudeste,Pago,2698.29,2694.44
+SIN-0165,2025-02-04,Colisão,Sul,Pago,8493.8,8343.32
+SIN-0166,2025-12-18,Colisão,Nordeste,Pago,9146.41,6262.16
+SIN-0167,2025-08-20,Colisão,Norte,Pago,8486.63,6833.3
+SIN-0168,2025-04-28,Colisão,Norte,Pago,16387.73,14350.56
+SIN-0169,2025-01-13,Colisão,Norte,Negado,15234.84,0
+SIN-0170,2025-02-22,Colisão,Sul,Negado,3727.36,0
+SIN-0171,2025-06-08,Alagamento,Nordeste,Pago,25230.54,21293.89
+SIN-0172,2025-10-07,Vidros,Sudeste,Em análise,3114.23,0
+SIN-0173,2025-10-01,Colisão,Norte,Negado,11010.7,0
+SIN-0174,2025-03-04,Danos a terceiros,Sudeste,Pago,11261.08,8257.48
+SIN-0175,2025-06-01,Colisão,Sudeste,Em análise,10800.52,0
+SIN-0176,2025-12-03,Roubo/Furto,Nordeste,Pago,12980.27,10726.16
+SIN-0177,2025-10-02,Danos a terceiros,Centro-Oeste,Pago,5706.04,4993.75
+SIN-0178,2025-01-02,Alagamento,Centro-Oeste,Pago,7545.06,6785.58
+SIN-0179,2025-08-03,Vidros,Sudeste,Pago,1027.5,892.4
+SIN-0180,2025-10-18,Danos a terceiros,Sudeste,Pago,5629.46,4655.24
+SIN-0181,2025-07-04,Vidros,Sudeste,Pago,3394.77,2861.68
+SIN-0182,2025-04-14,Roubo/Furto,Sudeste,Pago,27446.95,21836.69
+SIN-0183,2025-02-11,Roubo/Furto,Nordeste,Pago,14810.83,14411.6
+SIN-0184,2025-02-03,Vidros,Sudeste,Pago,2957.21,2762.39
+SIN-0185,2025-09-02,Roubo/Furto,Sul,Pago,13533.71,10471.83
+SIN-0186,2025-11-25,Roubo/Furto,Centro-Oeste,Pago,20480.44,15551.97
+SIN-0187,2025-02-19,Roubo/Furto,Sudeste,Pago,43985.54,33980.58
+SIN-0188,2025-09-12,Colisão,Sudeste,Pago,9358.05,7920.07
+SIN-0189,2025-10-20,Danos a terceiros,Sul,Pago,9757.83,8710.96
+SIN-0190,2025-01-06,Colisão,Nordeste,Em análise,8196.47,0
+SIN-0191,2025-03-28,Colisão,Nordeste,Pago,13996.91,13858.81
+SIN-0192,2025-02-24,Roubo/Furto,Sudeste,Pago,15011.19,11394.59
+SIN-0193,2025-06-25,Alagamento,Sul,Em análise,8711.71,0
+SIN-0194,2025-10-02,Danos a terceiros,Sudeste,Pago,7799.4,6276.3
+SIN-0195,2025-05-07,Danos a terceiros,Sudeste,Pago,5496.93,4878.36
+SIN-0196,2025-08-17,Danos a terceiros,Sudeste,Pago,9092.32,5934.47
+SIN-0197,2025-05-07,Danos a terceiros,Nordeste,Pago,3639.82,2999.52
+SIN-0198,2025-07-06,Colisão,Sul,Pago,11286.01,9974.77
+SIN-0199,2025-06-03,Colisão,Nordeste,Pago,9813.84,6646.44
+SIN-0200,2025-06-19,Roubo/Furto,Sudeste,Pago,20559.64,16278.33
+SIN-0201,2025-06-06,Vidros,Sul,Em análise,3527.27,0
+SIN-0202,2025-02-14,Vidros,Sudeste,Pago,2280.48,1798.2
+SIN-0203,2025-05-24,Colisão,Sudeste,Pago,10568.44,7291.27
+SIN-0204,2025-09-07,Vidros,Sudeste,Em análise,3209.69,0
+SIN-0205,2025-03-08,Colisão,Sudeste,Pago,5248.94,4806.47
+SIN-0206,2025-02-06,Alagamento,Sul,Pago,18711.52,15957.44
+SIN-0207,2025-11-19,Danos a terceiros,Norte,Pago,13319.82,10131.7
+SIN-0208,2025-08-03,Roubo/Furto,Sul,Em análise,33239.63,0
+SIN-0209,2025-06-17,Colisão,Sul,Pago,8459.97,6349.01
+SIN-0210,2025-11-28,Alagamento,Sudeste,Pago,14319.82,12216.46
+SIN-0211,2025-12-02,Roubo/Furto,Nordeste,Pago,21904.12,17884.06
+SIN-0212,2025-03-02,Roubo/Furto,Nordeste,Em análise,49660.19,0
+SIN-0213,2025-02-17,Danos a terceiros,Sudeste,Em análise,13547.47,0
+SIN-0214,2025-09-17,Danos a terceiros,Sudeste,Em análise,6681.86,0
+SIN-0215,2025-06-22,Roubo/Furto,Nordeste,Pago,11168.3,7628.81
+SIN-0216,2025-11-13,Colisão,Nordeste,Pago,16456.85,15726.95
+SIN-0217,2025-06-03,Roubo/Furto,Sudeste,Pago,49043.25,43867.62
+SIN-0218,2025-07-05,Roubo/Furto,Norte,Pago,24220.53,22454.41
+SIN-0219,2025-03-22,Danos a terceiros,Norte,Negado,12654.1,0
+SIN-0220,2025-02-21,Danos a terceiros,Sul,Pago,5788.35,5689.42
+SIN-0221,2025-06-25,Roubo/Furto,Sudeste,Pago,11640.93,11007.08
+SIN-0222,2025-02-17,Danos a terceiros,Centro-Oeste,Em análise,2704.38,0
+SIN-0223,2025-06-25,Danos a terceiros,Sul,Pago,4332.12,3866.4
+SIN-0224,2025-10-26,Vidros,Nordeste,Pago,1777.54,1603.08
+SIN-0225,2025-08-20,Colisão,Nordeste,Pago,10918.42,8279.59
+SIN-0226,2025-08-27,Colisão,Nordeste,Pago,9528.89,8759.94
+SIN-0227,2025-07-17,Roubo/Furto,Norte,Em análise,42052.89,0
+SIN-0228,2025-03-28,Colisão,Sul,Em análise,11223.79,0
+SIN-0229,2025-02-23,Vidros,Centro-Oeste,Pago,3033.82,2261.64
+SIN-0230,2025-09-05,Vidros,Sudeste,Em análise,3202.62,0
+SIN-0231,2025-06-01,Colisão,Sudeste,Pago,8719.22,5916.53
+SIN-0232,2025-04-01,Colisão,Sudeste,Em análise,7962.44,0
+SIN-0233,2025-03-05,Colisão,Centro-Oeste,Pago,15337.77,14043.18
+SIN-0234,2025-08-15,Danos a terceiros,Centro-Oeste,Pago,4728.07,3320.67
+SIN-0235,2025-12-20,Roubo/Furto,Sudeste,Pago,21048.35,14033.19
+SIN-0236,2025-07-21,Vidros,Sul,Pago,3481.21,2989.87
+SIN-0237,2025-01-21,Roubo/Furto,Sudeste,Pago,26428.03,22865.09
+SIN-0238,2025-04-19,Colisão,Nordeste,Pago,17472.99,11771.34
+SIN-0239,2025-09-18,Roubo/Furto,Norte,Pago,24799.06,20200.01
+SIN-0240,2025-11-13,Alagamento,Sudeste,Pago,24218.74,18664.92
+SIN-0241,2025-12-22,Danos a terceiros,Nordeste,Em análise,6057.4,0
+SIN-0242,2025-01-12,Roubo/Furto,Nordeste,Pago,41123.99,33418.1
+SIN-0243,2025-12-16,Danos a terceiros,Nordeste,Pago,11104.17,8996.46
+SIN-0244,2025-05-07,Colisão,Sudeste,Pago,16858.89,13999.36
+SIN-0245,2025-09-16,Colisão,Nordeste,Pago,8284.99,7649.49
+SIN-0246,2025-11-11,Colisão,Nordeste,Pago,8925.32,7175.13
+SIN-0247,2025-07-11,Alagamento,Sul,Pago,27545.61,22910.97
+SIN-0248,2025-02-24,Roubo/Furto,Sudeste,Negado,15979.17,0
+SIN-0249,2025-05-11,Colisão,Sudeste,Pago,9608.0,8658.56
+SIN-0250,2025-03-23,Roubo/Furto,Sudeste,Em análise,46687.5,0
+SIN-0251,2025-10-14,Colisão,Norte,Negado,4091.24,0
+SIN-0252,2025-11-13,Colisão,Nordeste,Pago,17147.74,12002.95
+SIN-0253,2025-10-22,Vidros,Sudeste,Pago,3082.32,2398.71
+SIN-0254,2025-07-19,Colisão,Sudeste,Pago,8493.1,6840.16
+SIN-0255,2025-02-19,Colisão,Sudeste,Pago,7120.51,7022.12
+SIN-0256,2025-01-24,Colisão,Sul,Em análise,4726.69,0
+SIN-0257,2025-05-23,Roubo/Furto,Norte,Pago,46892.11,38541.57
+SIN-0258,2025-02-05,Vidros,Sul,Em análise,2032.1,0
+SIN-0259,2025-02-26,Danos a terceiros,Centro-Oeste,Pago,6226.96,4189.05
+SIN-0260,2025-09-10,Vidros,Centro-Oeste,Em análise,3551.07,0
+SIN-0261,2025-11-06,Vidros,Sul,Pago,1263.09,882.4
+SIN-0262,2025-08-01,Colisão,Sul,Pago,17597.3,12237.51
+SIN-0263,2025-02-03,Colisão,Norte,Em análise,10794.72,0
+SIN-0264,2025-07-27,Roubo/Furto,Sudeste,Pago,11514.93,9362.12
+SIN-0265,2025-09-12,Colisão,Nordeste,Pago,11718.32,10765.9
+SIN-0266,2025-03-14,Roubo/Furto,Centro-Oeste,Em análise,30160.29,0
+SIN-0267,2025-05-06,Colisão,Norte,Pago,17068.81,14194.67
+SIN-0268,2025-05-28,Colisão,Sudeste,Negado,7057.46,0
+SIN-0269,2025-11-10,Danos a terceiros,Sudeste,Pago,9006.82,7684.86
+SIN-0270,2025-03-22,Danos a terceiros,Centro-Oeste,Pago,12784.7,8494.38
+SIN-0271,2025-01-03,Colisão,Sul,Pago,12660.56,11627.91
+SIN-0272,2025-07-20,Danos a terceiros,Sul,Pago,5570.02,5485.51
+SIN-0273,2025-08-08,Vidros,Nordeste,Pago,859.87,576.95
+SIN-0274,2025-08-14,Roubo/Furto,Sudeste,Pago,21528.46,19406.34
+SIN-0275,2025-12-28,Colisão,Sudeste,Em análise,10635.33,0
+SIN-0276,2025-02-11,Colisão,Sudeste,Pago,5070.55,3385.67
+SIN-0277,2025-07-28,Danos a terceiros,Sudeste,Em análise,4091.58,0
+SIN-0278,2025-06-19,Danos a terceiros,Sudeste,Pago,13604.15,11065.42
+SIN-0279,2025-05-16,Colisão,Norte,Pago,17354.46,12587.2
+SIN-0280,2025-06-02,Colisão,Sul,Em análise,12707.12,0
+SIN-0281,2025-08-10,Roubo/Furto,Centro-Oeste,Pago,45463.14,41127.22
+SIN-0282,2025-07-12,Colisão,Sudeste,Pago,8367.54,6284.11
+SIN-0283,2025-07-17,Roubo/Furto,Sul,Em análise,34576.15,0
+SIN-0284,2025-10-04,Colisão,Sudeste,Pago,17653.47,14921.44
+SIN-0285,2025-06-25,Colisão,Sul,Pago,3573.79,2371.64
+SIN-0286,2025-12-11,Vidros,Sul,Pago,3443.36,2406.64
+SIN-0287,2025-10-11,Colisão,Norte,Em análise,7426.11,0
+SIN-0288,2025-06-17,Vidros,Sul,Em análise,1574.34,0
+SIN-0289,2025-01-12,Colisão,Sudeste,Pago,7551.71,7284.14
+SIN-0290,2025-12-21,Colisão,Sul,Negado,14620.7,0
+SIN-0291,2025-10-19,Colisão,Sudeste,Pago,10772.96,9721.67
+SIN-0292,2025-07-05,Vidros,Sudeste,Pago,2836.64,2033.23
+SIN-0293,2025-08-11,Colisão,Sudeste,Pago,10439.57,9019.97
+SIN-0294,2025-08-28,Vidros,Nordeste,Em análise,2263.85,0
+SIN-0295,2025-09-11,Alagamento,Sul,Pago,28338.79,22979.42
+SIN-0296,2025-09-11,Roubo/Furto,Nordeste,Em análise,36991.33,0
+SIN-0297,2025-12-09,Danos a terceiros,Sudeste,Pago,8623.24,6283.78
+SIN-0298,2025-05-25,Colisão,Sudeste,Em análise,7690.98,0
+SIN-0299,2025-06-18,Alagamento,Nordeste,Pago,7885.92,6993.37
+SIN-0300,2025-07-13,Vidros,Norte,Em análise,1544.93,0
